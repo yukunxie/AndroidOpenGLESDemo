@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/realxie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/.externalNativeBuild/cmake/release/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/realxie/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/.externalNativeBuild/cmake/release/arm64-v8a --target native-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/build/intermediates/cmake/release/obj/arm64-v8a/libnative-lib.so"
+    }
+  }
+}

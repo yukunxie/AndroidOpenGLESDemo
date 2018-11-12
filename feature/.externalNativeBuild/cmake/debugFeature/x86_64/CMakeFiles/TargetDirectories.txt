@@ -1,0 +1,3 @@
+/Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/.externalNativeBuild/cmake/debugFeature/x86_64/CMakeFiles/edit_cache.dir
+/Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/.externalNativeBuild/cmake/debugFeature/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/realxie/Desktop/Work/AndroidOpenGLESDemo/feature/.externalNativeBuild/cmake/debugFeature/x86_64/CMakeFiles/native-lib.dir
