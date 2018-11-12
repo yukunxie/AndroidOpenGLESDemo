@@ -3,3 +3,11 @@
 0	447	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	14b56f92d3009452
 0	475	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	d7dd9bf19f0cf1fd
 475	582	0	../../../../build/intermediates/cmake/feature/debug/obj/arm64-v8a/libnative-lib.so	ba6392744b675b99
+2	35	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	cfccbbc17e7e6a99
+2	260	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	14b56f92d3009452
+2	270	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	d7dd9bf19f0cf1fd
+271	374	0	../../../../build/intermediates/cmake/feature/debug/obj/arm64-v8a/libnative-lib.so	b079d2920c8f6762
+2	39	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	cfccbbc17e7e6a99
+1	249	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	14b56f92d3009452
+1	263	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	d7dd9bf19f0cf1fd
+263	367	0	../../../../build/intermediates/cmake/feature/debug/obj/arm64-v8a/libnative-lib.so	b079d2920c8f6762

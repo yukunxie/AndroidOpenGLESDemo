@@ -22,6 +22,8 @@ add_library( # Sets the name of the library.
              src/main/cpp/cxx_jni_interface.h
              src/main/cpp/renderer.h
              src/main/cpp/renderer.cpp
+             src/main/cpp/glwrapper.h
+             src/main/cpp/glwrapper.cpp
 			 )
 
 # Searches for a specified prebuilt library and stores the path as a
@@ -45,7 +47,7 @@ target_link_libraries( # Specifies the target library.
                        native-lib
 					   -ljnigraphics
                        -landroid
-					   -lGLESv2
+					   #-lGLESv2
 					   -lEGL
 					   -lOpenSLES
 

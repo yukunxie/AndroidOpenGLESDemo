@@ -1,0 +1,22 @@
+# ninja log v5
+1	132	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	6e24fe8f6b4cb32c
+1	449	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	8b2239b14b20d30d
+1	451	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+1	461	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	8db288cb5e1fc63e
+1	30	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	6e24fe8f6b4cb32c
+1	257	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+1	267	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	8db288cb5e1fc63e
+1	31	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	6e24fe8f6b4cb32c
+1	289	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+2	30	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	6e24fe8f6b4cb32c
+1	265	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+1	273	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	8db288cb5e1fc63e
+1	150	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	6e24fe8f6b4cb32c
+1	422	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+1	428	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	8db288cb5e1fc63e
+428	518	0	../../../../build/intermediates/cmake/feature/debug/obj/x86_64/libnative-lib.so	49787212eb105a4f
+1	456	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+1	151	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	6e24fe8f6b4cb32c
+1	412	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	83af64f967ad1134
+1	416	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	8db288cb5e1fc63e
+416	510	0	../../../../build/intermediates/cmake/feature/debug/obj/x86_64/libnative-lib.so	49787212eb105a4f

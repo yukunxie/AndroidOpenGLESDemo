@@ -1,0 +1,10 @@
+# ninja log v5
+1	30	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	3ba9e453e95a69ea
+0	229	0	CMakeFiles/native-lib.dir/src/main/cpp/native-lib.cpp.o	9d3334e0361be9ee
+0	243	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	534ae583891cb9e0
+0	254	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	fa073a0808cd1293
+254	290	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	7ee380387a6092c2
+2	38	0	CMakeFiles/native-lib.dir/src/main/cpp/glwrapper.cpp.o	3ba9e453e95a69ea
+1	242	0	CMakeFiles/native-lib.dir/src/main/cpp/cxx_jni_interface.cpp.o	534ae583891cb9e0
+1	251	0	CMakeFiles/native-lib.dir/src/main/cpp/renderer.cpp.o	fa073a0808cd1293
+251	295	0	../../../../build/intermediates/cmake/debug/obj/x86/libnative-lib.so	7ee380387a6092c2
